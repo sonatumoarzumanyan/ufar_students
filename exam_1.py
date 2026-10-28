@@ -1,3 +1,4 @@
 x = 0
-print(y, x)
-print("something")
+print(x)
+print("fejshfekfheq")
+y=12
