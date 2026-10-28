@@ -1,3 +1,3 @@
 x = 0
-print(x)
-print(y)
+print(y, x)
+print("something")
