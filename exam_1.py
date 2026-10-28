@@ -1,3 +1,4 @@
 x = 0
 print(x)
-print(y)
+print("fejshfekfheq")
+y=12
